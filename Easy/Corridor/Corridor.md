@@ -60,7 +60,7 @@ Append this decrypted value to the URL, leading to the flag page.
 
 ![Image 9](https://i.imgur.com/jhfAaCO.png)
 
-![Image 10](https://i.imgur.com/HUBe1P1.png))
+![Image 10](https://i.imgur.com/HUBe1P1.png)
 
 ### Conclusion
 
