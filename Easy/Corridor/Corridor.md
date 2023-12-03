@@ -1,4 +1,4 @@
-## Corridor
+# Corridor
 
 <img align="right" src="https://i.imgur.com/g3anER1.png" width="150" height="150">
 
@@ -6,7 +6,7 @@ Can you escape the Corridor?
 
 CTF Link : [**Corridor**](https://tryhackme.com/room/corridor)
 
-# Steps
+## Steps
 
 ### Step 1: Initial Reconnaissance
 
