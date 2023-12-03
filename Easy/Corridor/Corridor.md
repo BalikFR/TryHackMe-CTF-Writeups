@@ -1,4 +1,4 @@
-## Corridor!
+## Corridor
 
 <img align="right" src="https://i.imgur.com/g3anER1.png" width="150" height="150">
 
